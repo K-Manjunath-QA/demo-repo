@@ -2,6 +2,10 @@
 
 Some Description!
 
-## SuHeader
+## SubHeader
 
 Watch YT Tutorial.
+
+## Local Development
+
+1. Open index.html in browser.
